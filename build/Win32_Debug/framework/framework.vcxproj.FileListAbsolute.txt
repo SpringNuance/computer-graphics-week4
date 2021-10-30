@@ -1,0 +1,1 @@
+\\wsl$\Ubuntu-18.04\home\springnuance\computer-graphics-week4\build\Win32_Debug\framework\framework.lib
